@@ -89,3 +89,7 @@ define( 'SLACK_APPLICATION_NOTIFICATION_ID', '' );
 ```
 
 Be sure to insert the relevant API key and Slack URL fragments before saving.
+
+## ToDo
+
+- Parse the VerifyEd API response and show a link to the new certificate.
